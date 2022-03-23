@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#f99d1c",
+        "stroke-width": 10,
+        "stroke-opacity": 1,
+        "project": "Mickelham Road Upgrade",
+        "name": "Mickelham Road Upgrade",
+        "status": "Planning",
+        "URL": "https://roadprojects.vic.gov.au/projects/mickleham-road-upgrade/"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.88147258758545,
+            -37.63457456626072
+          ],
+          [
+            144.88162279129028,
+            -37.63363570879925
+          ],
+          [
+            144.88172471523285,
+            -37.633006965043904
+          ],
+          [
+            144.8818427324295,
+            -37.63243769246045
+          ],
+          [
+            144.88192319869995,
+            -37.632055342754796
+          ],
+          [
+            144.88246500492096,
+            -37.629421324661266
+          ],
+          [
+            144.88311946392056,
+            -37.62620514695993
+          ],
+          [
+            144.88383829593658,
+            -37.62269565822542
+          ]
+        ]
+      }
+    }
+  ]
+}
